@@ -49,7 +49,7 @@ legal-site/
 
 ## カスタマイズ
 
-- 連絡先メール: `mk16iro@gmail.com` を 3 ファイル全部で変更したいときは検索置換
+- 連絡先メール: `contact@mironcorp.com` を 3 ファイル全部で変更したいときは検索置換
 - 事業者名: `kmaed` を必要なら本名/法人名に置換
 - 配色: 緑系 (`#2a5f3f`) を変えるなら CSS の該当箇所を編集
 - マークダウン版は `docs/TERMS_OF_SERVICE.md` / `docs/PRIVACY_POLICY.md` に併置
